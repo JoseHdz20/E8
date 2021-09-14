@@ -1,5 +1,10 @@
 Buenos dias
+Si, tienen que ser 2 lineas
 Hello como estan ? 
+<<<<<<< HEAD
 dos lineas se supone 
 
 Hola, soy jasl31
+=======
+dos lineas se supone
+>>>>>>> 421d50809987eebb25ad3f8fcb0a4f239b9f9c57
