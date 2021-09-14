@@ -8,3 +8,5 @@ Hola, soy jasl31
 =======
 dos lineas se supone
 >>>>>>> 421d50809987eebb25ad3f8fcb0a4f239b9f9c57
+
+The quick brown fox jumps over the lazy dog
